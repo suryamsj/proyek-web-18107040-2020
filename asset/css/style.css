@@ -1,0 +1,10 @@
+a.link-footer {
+    text-decoration: none;
+    color: #ffffff;
+    transition: 0.5s;
+}
+
+a.link-footer:hover {
+    color: #3498db;
+    transition: 0.5s;
+}
