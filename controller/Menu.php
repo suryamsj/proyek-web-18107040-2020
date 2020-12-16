@@ -24,6 +24,9 @@ if (isset($_GET['halaman'])) {
         case 'jurusan':
             include "page/jurusan/index.php";
             break;
+        case 'dosen':
+            include "page/dosen/index.php";
+            break;
     }
 } else {
     include "page/home/index.php";

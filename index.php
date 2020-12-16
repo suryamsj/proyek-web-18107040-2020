@@ -28,6 +28,7 @@
                 <div class="navbar-nav ml-auto">
                     <a class="nav-link" href="index.php?halaman=home">Home</a>
                     <a class="nav-link" href="index.php?halaman=datamhs">Mahasiswa</a>
+                    <a class="nav-link" href="index.php?halaman=dosen">Dosen</a>
                     <a class="nav-link" href="index.php?halaman=fakultas">Fakultas</a>
                     <a class="nav-link" href="index.php?halaman=jurusan">Jurusan</a>
                 </div>
